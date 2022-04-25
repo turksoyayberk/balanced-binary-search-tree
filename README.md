@@ -5,7 +5,9 @@
 This program provides balanced rendering of numbers entered in Binary Search Tree.
 
 In this project, you will construct a BST with the keys that are in the given input file. The BST has the following properties:
+<br>
 ⦁	its nodes are distributed over 3log4 n depth levels;
+<br>
 ⦁	it provides the best possible total access time.
 
 Example input:
