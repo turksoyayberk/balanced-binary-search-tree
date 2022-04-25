@@ -12,4 +12,8 @@ Example input:
 <br>
 ⦁	10 5 3 25 70 97 115 2 65 69 32 152 1 21 49 8 12 78
 
+Representative Image:
+
+![tree](https://user-images.githubusercontent.com/84626969/165089368-1ee4a80c-3167-4447-aa62-a9e4656d4531.png)
+
 
